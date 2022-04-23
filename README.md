@@ -1,11 +1,9 @@
 # Image_resize_Intern
 converts any image into 720 by 720
 
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Apr 12 09:16:59 2022
 
-@author: Het
+@author: Kurian Ambat
 """
 import cv2 
 import numpy as np 
